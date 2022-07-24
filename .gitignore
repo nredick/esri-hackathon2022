@@ -1,5 +1,7 @@
 # env/setup
 .vscode
+logs
+data/*bins
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
